@@ -14,7 +14,7 @@ Allow users create, view and track daily workouts.
 
 Allow users create, view and track daily workouts. The user can log multiple exercises in a workout on a given day and can reach their fitness goals more quickly when they track their workout progress.
 
-[App Link] (https://fathomless-atoll-27273.herokuapp.com/)
+[App Link](https://fathomless-atoll-27273.herokuapp.com/)
 
 ## Visualization of App Interface
 
